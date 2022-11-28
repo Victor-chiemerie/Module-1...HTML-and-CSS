@@ -39,7 +39,7 @@
 
 ## Authors
 
-👤 *Author1*
+👤 *Author*
 
 - GitHub: [@githubhandle](https://github.com/Victor-chiemerie)
 - Twitter: [@twitterhandle](https://twitter.com/VictorChiemer20)
